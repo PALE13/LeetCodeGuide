@@ -1,5 +1,5 @@
 # LeetCode
-leetcode高频题目
+LeetCode高频题目
 - 二叉树
 - 动态规划
 - 哈希表
