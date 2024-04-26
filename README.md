@@ -1,4 +1,4 @@
-# LeetCode
+## LeetCode
 
 LeetCode高频题目
 - 二叉树
